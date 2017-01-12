@@ -1,6 +1,7 @@
 ##
-## gencpro ver.1.0
-## Process this file with automake to produce Makefile.in
+## @info   gencpro ver.1.0
+## @author Vladimir Roncevic <elektron.ronca@gmail.com>
+## @brief  Process this file with automake to produce Makefile.in
 ##
 
 AM_CPPFLAGS = \
